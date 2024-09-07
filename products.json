@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99,
+    "image": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/How-to-Find-the-Model-Number-on-a-Laptop.jpg?fit=2000%2C1125&ssl=1"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 599.99,
+    "image": "https://www.cnet.com/a/img/resize/690ad0a97cf8fc98f3cf851e7b149d2ffc5b171e/hub/2023/05/04/31dfdcf2-1ac3-4320-b40c-4c356300f06e/google-pixel-7a-phone-14.jpg?auto=webp&height=500"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 149.99,
+    "image": "https://images.herzindagi.info/image/2024/Jan/best-gaming-Headphones-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "price": 149.99,
+    "image": "https://dlcdnwebimgs.asus.com/gain/640C2121-97E6-4880-B56E-AAF63DAE53A6/w750/h470"
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "price": 149.99,
+    "image": "https://www.cnet.com/a/img/resize/1b990bf2917a4d2a220ea2be6bb39e8eaca7d125/hub/2021/08/20/453e37bf-61cb-4e16-ad90-fd822bdc390a/keychron-k3-mechanical-keyboard.jpg?auto=webp&fit=crop&height=576&width=768"
+  },
+  {
+    "id": 6,
+    "name": "Monitor",
+    "price": 149.99,
+    "image": "https://www.digitaltrends.com/wp-content/uploads/2022/12/ROG-Swift-OLED-PG27AQDM_-Scenario.jpg?fit=720%2C720&p=1"
+  },
+  {
+    "id": 7,
+    "name": "Speaker",
+    "price": 149.99,
+    "image": "https://stereoplus.com/cdn/shop/files/775136_5_600x.jpg?v=1692816394"
+  }
+]
